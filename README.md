@@ -4,9 +4,11 @@ This project is a 3D-printed tendon-driven robotic hand controlled using real-ti
 
 ## Demo
 
-[![Watch the demo](media/images/full-setup.jpg)](media/demo.mp4)
+**Video:** [Watch the demo video](media/demo.mp4)
 
-Click the image above to watch the demo video.
+[![Watch the demo video](media/images/full-setup.jpg)](media/demo.mp4)
+
+Click the image above to open the demo video.
 
 ## Overview
 
