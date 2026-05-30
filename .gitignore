@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# SolidWorks temporary files
+~$*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local calibration/runtime files
+servo_calibration.json
+software/python/servo_calibration.json
+
+# VS Code
+.vscode/
+
+# Large/raw media backups
+media/demo-original.mp4
+media/demo-new-original.mp4
+*.mov
